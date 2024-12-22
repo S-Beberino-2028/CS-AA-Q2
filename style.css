@@ -1,0 +1,54 @@
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f4f4f4;
+            color: #333;
+        }
+        header {
+            background-color: #004E50;
+            color: white;
+            padding: 20px;
+            text-align: center;
+        }
+        header h1 {
+            font-size: 3em;
+        }
+        .slogan {
+            font-size: 1.5em;
+            margin-top: 10px;
+        }
+        .main-content {
+            padding: 30px;
+            max-width: 1200px;
+            margin: 0 auto;
+        }
+        .description {
+            font-size: 1.2em;
+            line-height: 1.6em;
+            text-align: justify;
+            margin-bottom: 30px;
+        }
+        footer {
+            background-color: #222;
+            color: white;
+            text-align: center;
+            padding: 10px;
+            font-size: 0.9em;
+            position: relative;
+        }
+        }
+        .call-to-action {
+            background-color: #28a745;
+            color: white;
+            padding: 15px;
+            text-align: center;
+            font-size: 1.2em;
+            border-radius: 5px;
+            cursor: pointer;
+        }
+        .call-to-action:hover {
+            background-color: #218838;
+        }
+    </style>
